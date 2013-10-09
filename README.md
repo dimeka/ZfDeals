@@ -1,7 +1,4 @@
-ZendSkeletonApplication
-=======================
-
-Introduction
+﻿Introduction
 ------------
 This is a simple, skeleton application using the ZF2 MVC layer and module
 systems. This application is meant to be used as a starting place for those
@@ -59,3 +56,7 @@ directory:
 
 This will start the cli-server on port 8080, and bind it to all network
 interfaces.
+
+
+scrum from book
+
