@@ -3,6 +3,8 @@ return array(
     // This should be an array of module namespaces used in the application.
     'modules' => array(
         'Application',
+        'ZfDeals',
+        'dlutwbootstrap',
     ),
 
     // These are various options for the listeners attached to the ModuleManager
@@ -14,6 +16,7 @@ return array(
         'module_paths' => array(
             './module',
             './vendor',
+            './vendor/dlu',
         ),
 
         // An array of paths from which to glob configuration files after
